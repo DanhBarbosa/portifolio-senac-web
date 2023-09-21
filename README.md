@@ -1,9 +1,9 @@
 # portifolio-senac-web
 Site de portefólio - Projeto Web 
 
-[ x ] Header
-[ ]   Apresentação
-[ ]   Projetos
-[ ]   Orçamento
+[x] Header
+[x]   Apresentação
+[x]   Projetos
+[x]   Orçamento
 [ ]   Menu
 [ ]   Responsividade
