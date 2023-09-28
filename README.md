@@ -2,8 +2,8 @@
 Site de portefólio - Projeto Web 
 
 [x] Header
-[x]   Apresentação
-[x]   Projetos
-[x]   Orçamento
-[ ]   Menu
-[ ]   Responsividade
+[x] Apresentação
+[x] Projetos
+[x] Orçamento
+[x] Menu
+[]  Responsividade

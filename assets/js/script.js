@@ -44,8 +44,6 @@ function calcular(){
     resultado.innerText = `R$ ${valor},00`
 }
 
-
-
 //mostrar o preço
 
 
